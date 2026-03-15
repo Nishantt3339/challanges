@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{FAQ | Frequently Asked Questions} | devChallenges</h1>
+<h1 align="center">FAQ | Frequently Asked Questions | devChallenges</h1>
 
 <div align="center">
    Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://challanges-amber.vercel.app/}">
+    <a href="https://challanges-amber.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://github.com/Nishantt3339/challanges/tree/main/FQA/FQA}">
+    <a href="https://github.com/Nishantt3339/challanges/tree/main/FQA/FQA">
       Solution
     </a>
     <span> | </span>
@@ -22,19 +20,28 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+---
 
 ## Table of Contents
 
+- [Overview](#overview)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+---
+
 ## Overview
 
-This project is a Frequently Asked Questions (FAQ) page built as a frontend challenge. 
-It displays common questions and answers in a clean and responsive layout. 
+This project is a Frequently Asked Questions (FAQ) page built as a frontend challenge.  
+It displays common questions and answers in a clean and responsive layout.
+
 The goal of this project was to practice HTML structure, CSS styling, and building responsive layouts.
 
 ### What I learned
-
-While building this project I learned:
 
 - How to structure semantic HTML
 - How to create responsive layouts using CSS
@@ -43,8 +50,10 @@ While building this project I learned:
 
 ### Useful resources
 
-- MDN Web Docs – Helped me understand HTML and CSS concepts
-- W3Schools – Useful for quick reference while coding
+- MDN Web Docs
+- W3Schools
+
+---
 
 ## Built with
 
@@ -52,7 +61,8 @@ While building this project I learned:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- [React](https://reactjs.org/)
+
+---
 
 ## Features
 
@@ -60,16 +70,19 @@ While building this project I learned:
 - Responsive design for mobile and desktop
 - Simple and easy-to-read interface
 
+---
+
 ## Contact
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Nishantt3339
 
-Portfolio: https://yourportfolio.vercel.app
+---
 
 ## Acknowledgements
 
 This project was inspired by frontend practice challenges to improve web development skills.
 
+---
 
 ## Author
 
